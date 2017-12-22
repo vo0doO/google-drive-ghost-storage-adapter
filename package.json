@@ -1,0 +1,28 @@
+{
+  "name": "google-drive-ghost-storage-adapter",
+  "version": "1.0.0",
+  "description": "Google Drive storage adapter for Ghost.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glur4k/google-drive-ghost-storage-adapter.git"
+  },
+  "keywords": [
+    "Ghost",
+    "Google Drive",
+    "Ghost storage adapter"
+  ],
+  "author": "Sandro Tonon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glur4k/google-drive-ghost-storage-adapter"
+  },
+  "homepage": "https://github.com/glur4k/google-drive-ghost-storage-adapter",
+  "dependencies": {
+    "bluebird": "3.5.1",
+    "googleapis": "23.0.0"
+  }
+}
